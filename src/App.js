@@ -42,7 +42,7 @@ class App extends Component{
     return (
       <div className="App">
 
-        <h1>Monster Database</h1>
+        <h1>Monster Database 1.0</h1>
 
           <SearchBox
           placeholder='search monsters'
